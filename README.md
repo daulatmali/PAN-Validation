@@ -35,4 +35,4 @@ The project processes the provided dataset and adds a new column showing whether
 | XYZ1234567 | False |
 | PQRST9876U | True |
 
-This project successfully validated all entries, identifying `[]` valid and `[932]` invalid PAN numbers. The final results are saved in a `results/` folder, as indicated in the notebook.
+This project successfully validated all entries, identifying `[9068]` valid and `[932]` invalid PAN numbers. The final results are saved in a `results/` folder, as indicated in the notebook.
